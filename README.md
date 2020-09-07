@@ -6,12 +6,16 @@ For a demo, head over to <http://recipes.philipkatz.xyz/>
 
 Make sure your microphone is enabled!
 
-You can use the microphone on the bottom right, click it and start a request with "I would like". "I would like pizza". 
+You can use the microphone on the bottom right, click it and start a request with "I would like". "I would like creme brulee". 
 
 Here's a demo of the home page:
 
 <img src="https://i.ibb.co/Lz0H24J/Recipes-Img.jpg"
      alt="Recipes homepage"
+     />
+     
+<img src="https://i.ibb.co/ZJsSdJv/Creme-Brulee.jpg"
+  alt="Creme brulee"
      />
 
 
