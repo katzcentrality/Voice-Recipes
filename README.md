@@ -21,7 +21,7 @@ Here's a demo of the home page:
      alt="Recipes homepage"
      />
 
-The app will proceed to read you the first recipe in our search results before mapping through an array of cards that will show you a picture of each as well as more information. At any time, you can click on one of the recipes and proceed to your kitchen and get cooking!
+The app will proceed to read you the first recipe in our search results before mapping through an array of cards that will show you a picture of each as well as more information. At any time, you can click on one of the recipes to get the original link, and proceed to your kitchen and get cooking!
 
 
 <img src="https://i.ibb.co/ZJsSdJv/Creme-Brulee.jpg"
